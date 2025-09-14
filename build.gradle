@@ -1,0 +1,46 @@
+plugins {
+    id 'java'
+    id 'org.jetbrains.intellij' version '1.17.3'
+}
+
+group 'com.example'
+version '1.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // Apache POI (Excel) - Fixed version mismatch
+    implementation 'org.apache.poi:poi:5.2.4'
+    implementation 'org.apache.poi:poi-ooxml:5.2.4'
+
+    // Spring Framework
+    implementation 'org.springframework:spring-web:5.3.34'
+    implementation 'org.springframework:spring-context:5.3.34'
+    implementation 'org.springframework:spring-beans:5.3.34'
+    implementation 'org.springframework:spring-core:5.3.34'
+
+    // Swagger (Springdoc OpenAPI)
+    implementation 'org.springdoc:springdoc-openapi-ui:1.7.0'
+    implementation 'org.springdoc:springdoc-openapi-webmvc-core:1.7.0'
+    implementation 'io.swagger.core.v3:swagger-annotations:2.2.21'
+
+    // Jackson (for JSON request/response handling)
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.15.4'
+}
+
+intellij {
+    version = '2025.1'
+    type = 'IC'
+    plugins = ['java']
+}
+//patchPluginXml {
+//    changeNotes = "Initial version of Controller Excel plugin"
+//    sinceBuild = '252'  // IntelliJ 2025.1
+//    untilBuild = '252.*'
+//}
+
+tasks.named("buildSearchableOptions").configure {
+    enabled = false
+}

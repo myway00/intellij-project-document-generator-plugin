@@ -1,0 +1,66 @@
+2025-09-14 14:11:10,705 [    141]   INFO - #o.j.j.c.BuildMain - ==================================================
+2025-09-14 14:11:11,996 [   1432]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: C:/Users/11400/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2023.1/79ab2d2970b44e4c36be667e173da87c982a9814/ideaIC-2023.1/plugins/java/lib/jps-launcher.jar
+2025-09-14 14:11:26,386 [  15822]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 13863 ms
+2025-09-14 14:11:33,489 [  22925]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = D:/NextGen/mes-be, global options path = D:/000.Project/Plugin/NexGen-Guide-Generator/build/idea-sandbox/config/options
+2025-09-14 14:11:47,648 [  37084]   INFO - #o.j.j.m.s.JpsProjectLoader - External project config dir is used: D:\000.Project\Plugin\NexGen-Guide-Generator\build\idea-sandbox\system\projects\mes-be.5dc81340\external_build_system\project
+2025-09-14 14:11:49,338 [  38774]   INFO - #o.j.j.m.s.JpsProjectLoader - External project config dir is used for modules: D:\000.Project\Plugin\NexGen-Guide-Generator\build\idea-sandbox\system\projects\mes-be.5dc81340\external_build_system\modules
+2025-09-14 14:11:49,944 [  39380]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 16421 ms
+2025-09-14 14:11:50,044 [  39480]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2025-09-14 14:11:54,243 [  43679]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2025-09-14 14:11:54,290 [  43726]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE:10485760
+2025-09-14 14:11:54,302 [  43738]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular
+2025-09-14 14:11:54,303 [  43739]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2025-09-14 14:12:09,773 [  59209]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:true; isMake:false parallel compilation:false
+2025-09-14 14:12:09,808 [  59244]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2025-09-14 14:12:09,815 [  59251]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2025-09-14 14:12:09,895 [  59331]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2025-09-14 14:12:10,137 [  59573]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2025-09-14 14:12:24,661 [  74097]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 3275 ms
+2025-09-14 14:12:34,514 [  83950]   INFO - #o.j.j.c.BuildSession - Build duration: Builder 'Form-bindings' took 53 ms; 0 sources processed
+2025-09-14 14:12:36,818 [  86254]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=2560, regularPageLoads=39, pageLoadsAboveSizeThreshold=0, pageLoadUs=1412874, pageDisposalUs=1490, capacityInBytes=524288000, disposedBuffers=39 maxRegisteredFiles=98 maxCacheSizeInBytes=28344320totalSizeCachedBytes=0
+2025-09-14 14:13:34,985 [   1223]   INFO - #o.j.j.c.BuildMain - ==================================================
+2025-09-14 14:13:38,622 [   4860]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: C:/Users/11400/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2023.1/79ab2d2970b44e4c36be667e173da87c982a9814/ideaIC-2023.1/plugins/java/lib/jps-launcher.jar
+2025-09-14 14:14:11,270 [  37508]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 31905 ms
+2025-09-14 14:14:12,549 [  38787]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = D:/NextGen/mes-be, global options path = D:/000.Project/Plugin/NexGen-Guide-Generator/build/idea-sandbox/config/options
+2025-09-14 14:14:23,207 [  49445]   INFO - #o.j.j.m.s.JpsProjectLoader - External project config dir is used: D:\000.Project\Plugin\NexGen-Guide-Generator\build\idea-sandbox\system\projects\mes-be.5dc81340\external_build_system\project
+2025-09-14 14:14:23,717 [  49955]   INFO - #o.j.j.m.s.JpsProjectLoader - External project config dir is used for modules: D:\000.Project\Plugin\NexGen-Guide-Generator\build\idea-sandbox\system\projects\mes-be.5dc81340\external_build_system\modules
+2025-09-14 14:14:24,643 [  50881]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 12107 ms
+2025-09-14 14:14:24,683 [  50921]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2025-09-14 14:14:29,484 [  55722]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2025-09-14 14:14:29,488 [  55726]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE:10485760
+2025-09-14 14:14:29,496 [  55734]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular
+2025-09-14 14:14:29,516 [  55754]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2025-09-14 14:14:47,399 [  73637]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 72712 ms
+2025-09-14 14:18:22,409 [ 288647]   INFO - #o.j.j.c.BuildMain - Build canceled, but no build session is running. Exiting.
+2025-09-14 14:20:45,264 [     62]   INFO - #o.j.j.c.BuildMain - ==================================================
+2025-09-14 14:20:45,643 [    441]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: C:/Users/11400/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2023.1/79ab2d2970b44e4c36be667e173da87c982a9814/ideaIC-2023.1/plugins/java/lib/jps-launcher.jar
+2025-09-14 14:20:51,102 [   5900]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 5308 ms
+2025-09-14 14:20:51,965 [   6763]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = D:/NextGen/mes-be, global options path = D:/000.Project/Plugin/NexGen-Guide-Generator/build/idea-sandbox/config/options
+2025-09-14 14:20:54,118 [   8916]   INFO - #o.j.j.m.s.JpsProjectLoader - External project config dir is used: D:\000.Project\Plugin\NexGen-Guide-Generator\build\idea-sandbox\system\projects\mes-be.5dc81340\external_build_system\project
+2025-09-14 14:20:54,436 [   9234]   INFO - #o.j.j.m.s.JpsProjectLoader - External project config dir is used for modules: D:\000.Project\Plugin\NexGen-Guide-Generator\build\idea-sandbox\system\projects\mes-be.5dc81340\external_build_system\modules
+2025-09-14 14:20:54,845 [   9643]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 2880 ms
+2025-09-14 14:20:55,074 [   9872]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2025-09-14 14:20:56,285 [  11083]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2025-09-14 14:20:56,287 [  11085]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE:10485760
+2025-09-14 14:20:56,292 [  11090]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular
+2025-09-14 14:20:56,294 [  11092]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2025-09-14 14:20:58,624 [  13422]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2025-09-14 14:20:58,635 [  13433]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2025-09-14 14:20:58,636 [  13434]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2025-09-14 14:20:58,666 [  13464]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2025-09-14 14:21:01,720 [  16518]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 172 ms
+2025-09-14 14:21:13,956 [  28754]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=876, regularPageLoads=31, pageLoadsAboveSizeThreshold=0, pageLoadUs=766777, pageDisposalUs=337, capacityInBytes=524288000, disposedBuffers=31 maxRegisteredFiles=67 maxCacheSizeInBytes=26247168totalSizeCachedBytes=0
+2025-09-14 14:22:17,329 [    117]   INFO - #o.j.j.c.BuildMain - ==================================================
+2025-09-14 14:22:17,708 [    496]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: C:/Users/11400/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/2023.1/79ab2d2970b44e4c36be667e173da87c982a9814/ideaIC-2023.1/plugins/java/lib/jps-launcher.jar
+2025-09-14 14:22:23,490 [   6278]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 5593 ms
+2025-09-14 14:22:24,152 [   6940]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = D:/NextGen/mes-be, global options path = D:/000.Project/Plugin/NexGen-Guide-Generator/build/idea-sandbox/config/options
+2025-09-14 14:22:27,777 [  10565]   INFO - #o.j.j.m.s.JpsProjectLoader - External project config dir is used: D:\000.Project\Plugin\NexGen-Guide-Generator\build\idea-sandbox\system\projects\mes-be.5dc81340\external_build_system\project
+2025-09-14 14:22:28,184 [  10972]   INFO - #o.j.j.m.s.JpsProjectLoader - External project config dir is used for modules: D:\000.Project\Plugin\NexGen-Guide-Generator\build\idea-sandbox\system\projects\mes-be.5dc81340\external_build_system\modules
+2025-09-14 14:22:28,926 [  11714]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 4777 ms
+2025-09-14 14:22:28,945 [  11733]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 0 libraries
+2025-09-14 14:22:29,710 [  12498]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2025-09-14 14:22:29,712 [  12500]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE:10485760
+2025-09-14 14:22:29,714 [  12502]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular
+2025-09-14 14:22:29,715 [  12503]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2025-09-14 14:22:34,350 [  17138]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 17027 ms
+2025-09-14 14:27:07,366 [ 290154]   INFO - #o.j.j.c.BuildMain - Build canceled, but no build session is running. Exiting.
